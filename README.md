@@ -2,6 +2,8 @@ Inverted Pendulum Hybrid Control Simulation
 
 A beginner Python simulation of a cart-pendulum system with automated parameter optimization and a dual-phase control strategy.
 
+<img src="images/simulation-1.gif" width="600" alt="Symulacja wahadła">
+
 ## Core Features
 * **Hybrid Control:** Transition from energy-based swing-up control to PID stabilization (±15° equilibrium threshold).
 * **Automated Optimization:** Hyperparameter tuning using `scipy.optimize` to minimize cost functions (position drift, angular error, and control effort).
