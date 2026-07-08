@@ -1,4 +1,4 @@
-Inverted Pendulum Hybrid Control Simulation
+Inverted Pendulum Hybrid Control Simulation 
 
 A beginner Python simulation of a cart-pendulum system with automated parameter optimization and a dual-phase control strategy.
 
